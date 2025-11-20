@@ -10,7 +10,6 @@ import {
   Platform,
   Switch,
 } from 'react-native';
-import * as ImagePicker from 'expo-image-picker';
 import { globalStyles, colors } from '../../styles/global';
 import { productsAPI } from '../../services/products';
 import { PRODUCT_CATEGORIES, PRODUCT_ETATS } from '../../utils/constants';
